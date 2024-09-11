@@ -38,7 +38,7 @@ const styles = StyleSheet.create({
         backgroundColor: '#93e9f6', 
         borderColor: 'black',
         borderWidth: 8,
-        // opacity:'50%'
+        
     },
     text: {
         marginTop: 50,
